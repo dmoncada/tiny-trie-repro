@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import { Trie } from 'tiny-trie';
 import './App.css';
 
 function App() {
